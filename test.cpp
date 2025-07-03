@@ -1,7 +1,5 @@
 // Files
 #include "ring.h"
-#include "ring_element.cpp"
-#include "ring_methods.cpp"
 
 // Lids
 #include <iomanip>
